@@ -64,6 +64,15 @@ $spacing--unit:      8px;
 @import "imports/links";
 @import "imports/buttons";
 
+//Fonts
+@font-face {
+  font-family: "Dubiel";
+  src:  url("./imports/fonts/Dubiel.ttf") format("truetype");
+        // url("./imports/fonts/dubiel-webfont.woff2") format("woff2"),
+        // url("./imports/fonts/dubiel-webfont.woff") format("woff"),
+       
+}
+
 // Components
 @import "imports/nav";
 @import "imports/content";
