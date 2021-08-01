@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'dubielplainregular';
-    src: url('dubiel-webfont.woff2') format('woff2'),
-         url('dubiel-webfont.woff') format('woff');
+    src: url('Dubiel.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
